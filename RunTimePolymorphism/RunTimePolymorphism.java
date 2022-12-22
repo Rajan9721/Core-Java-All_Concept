@@ -37,10 +37,5 @@ public class RunTimePolymorphism{
         System.out.println("SBI bank interest: "+b.getRateOfInterest());
 
 
-
-
-
-
-
     }
 }
